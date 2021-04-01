@@ -1,3 +1,5 @@
+// Kaizen Edwin C. Rodriguez    Branch Edit
+
 void setup() 
 {
   pinMode(13, OUTPUT);    // sets the digital pin 13 as output
