@@ -12,4 +12,5 @@ void loop()
   digitalWrite(13, 0);    // sets the digital pin 13 off
   delay(100);             // waits for 2 seconds
   
+  // including comment that has my name: Jordan
 }
