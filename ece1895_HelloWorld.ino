@@ -13,4 +13,5 @@ void loop()
   delay(100);             // waits for 2 seconds
   
   // including comment that has my name: Jordan
+  //Amy
 }
